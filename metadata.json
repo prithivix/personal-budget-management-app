@@ -1,0 +1,7 @@
+{
+  "name": "Tally",
+  "description": "Personal budget management app matching the Tally prototype with category budgets, alerts, activity tracker, and instant spend updates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
